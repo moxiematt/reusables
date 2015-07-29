@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Graublau Web';
+  src: url('GraublauWeb.eot');
+  src: local('☺︎'),
+    url("GraublauWeb.woff") format("woff"),
+    url("GraublauWeb.otf") format("opentype"),
+    url("GraublauWeb.svg#grablau") format("svg");
+}
