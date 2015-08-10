@@ -1,0 +1,16 @@
+.clinical-box {
+	display: inline-block;
+	text-align: center; 
+	background-color: #222E84;
+	width: 100%;
+	padding: 25px 0;
+	color: #FFF;
+	&:hover {
+		background-color: #96d6eb;
+		-webkit-transition: background-color 250ms linear;
+	    -moz-transition: background-color 250ms linear;
+	    -o-transition: background-color 250ms linear;
+	    -ms-transition: background-color 250ms linear;
+	    transition: background-color 250ms linear;
+	} 
+}
