@@ -1,11 +1,11 @@
-.clinical-box {
+.basic-button {
+	color: #FFF;
+	background-color: #222E84;	
 	display: inline-block;
-	text-align: center; 
-	background-color: #222E84;
+	text-align: center;
 	width: 100%;
 	padding: 25px 0;
-	color: #FFF;
-	&:hover {
+	&:hover, &:focus {
 		background-color: #96d6eb;
 		-webkit-transition: background-color 250ms linear;
 		-moz-transition: background-color 250ms linear;
